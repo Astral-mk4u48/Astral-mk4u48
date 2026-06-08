@@ -99,9 +99,9 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Astral-mk4u48&theme=dark&hide_border=true&title_color=ff0000&icon_color=ff0000&text_color=ffffff&bg_color=000000)
+![My Live Ecosystem Stats](github-metrics.svg)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Astral-mk4u48&layout=compact&theme=dark&hide_border=true&title_color=ff0000&icon_color=ff0000&text_color=ffffff&bg_color=000000)
+*Note: This infographic is dynamically compiled and auto-updated using an active GitHub Actions workflow runner.*
 
 ---
 
