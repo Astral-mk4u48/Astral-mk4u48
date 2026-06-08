@@ -100,12 +100,9 @@
 ## 📊 GitHub Stats
 
 <p align="left">
-  <a href="https://github.com/Astral-mk4u48">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Astral-mk4u48&layout=compact&langs_count=8&theme=highcontrast&hide_border=true&title_color=ff0000&icon_color=ff0000&text_color=ffffff&bg_color=000000"/>
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=Astral-mk4u48&theme=dark&hide_border=true&title_color=ff0000&icon_color=ff0000&text_color=ffffff&bg_color=000000" height="180em" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Astral-mk4u48&layout=compact&theme=dark&hide_border=true&title_color=ff0000&icon_color=ff0000&text_color=ffffff&bg_color=000000" height="180em" alt="Top Languages" />
 </p>
-
-*Note: The stats card above is customized with a sharp high-contrast **red and black** theme to match my environment layout.*
 
 ---
 
