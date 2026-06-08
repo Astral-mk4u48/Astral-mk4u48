@@ -99,10 +99,9 @@
 
 ## 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Astral-mk4u48&theme=dark&hide_border=true&title_color=ff0000&icon_color=ff0000&text_color=ffffff&bg_color=000000" height="180em" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Astral-mk4u48&layout=compact&theme=dark&hide_border=true&title_color=ff0000&icon_color=ff0000&text_color=ffffff&bg_color=000000" height="180em" alt="Top Languages" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Astral-mk4u48&theme=dark&hide_border=true&title_color=ff0000&icon_color=ff0000&text_color=ffffff&bg_color=000000)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Astral-mk4u48&layout=compact&theme=dark&hide_border=true&title_color=ff0000&icon_color=ff0000&text_color=ffffff&bg_color=000000)
 
 ---
 
