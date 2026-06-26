@@ -1,33 +1,34 @@
 # Hi, I'm Pavan! 🚀
 
-### 👨‍💻 Full Stack Developer | Backend Automation Engineer | Systems Thinker
+### 👨‍💻 Student Developer | Hardware-Software Integration | Systems Thinker
 
 📍 Coppell, Texas, United States
 
 ---
 
 ## 🔥 About Me
+- 🎓 **Incoming high school freshman at Coppell High School 9 focused on robotics, computer science, and engineering.**
 - 💻 Proficient in **Full Stack Web Development** and hardware-software integration.
 - 🔧 Passionate about building serverless architectures, automation engines, and database logic.
 - 📐 Backed by a strong foundation in **Competitive Mathematics** (MATHCOUNTS, AMC 10, UIL Mathematics).
 - 🥋 Disciplined **Taekwondo Green Belt**, bringing focus and iteration to my engineering workflows.
 - 📖 Committed to open-source contributions, peer mentorship, and civic tech projects.
 
-## 💼 Experience & Roles
+## 💼 Extracurriculars, Volunteer Work & Personal Projects
 
-### 💻 Technical Experience & Projects
-* **Web Developer** | *Coding Buds* *(April 2026 - Present)*
+### 💻 Technical Projects & Organization Roles
+* **Lead Volunteer Web Developer** | *Coding Buds (Student Org)* *(April 2026 - Present)*
   * Architected and maintained core front-end layout features using modern HTML, CSS, and component logic.
   * Optimized administrative workflows by implementing serverless email routing protocols (Cloudflare DNS management & EmailJS).
   * Maintained high performance and cross-device stability for a peer-to-peer programming mentorship platform.
 
-* **Systems Architect** | *Rune Health Development* *(December 2025 - Present)*
+* **Lead Developer (Personal Project)** | *Rune Health* *(December 2025 - Present)*
   * Custom-designed an AI-powered personal lifestyle optimization web application engineered to deliver real-time caloric charting.
   * Built relational database tables and serverless scripts to automate user state tracking, progress charting, and localized data mutations.
   * Formulated physical engineering validation tests to safely connect complex API-driven model layers with stateful user interactions.
 
 ### 🏆 Leadership & Community Engagement
-* **Digital Systems & Fundraising Lead** | *America 4 Africa (A4A) Club* *(February 2026 - Present)*
+* **Digital Systems & Fundraising Lead (Volunteer)** | *America 4 Africa (A4A) Club* *(February 2026 - Present)*
   * Coordinated digital campaign infrastructure to maximize community outreach and donor engagement for regional aid initiatives.
   * Configured and monitored digital donation platforms to ensure seamless transaction routing, system transparency, and accurate donor tracking.
   * Collaborated with club leadership to align promotional web components with institutional awareness goals.
@@ -109,4 +110,4 @@
 - 📧 [pavan.sankiliraj@gmail.com](mailto:pavan.sankiliraj@gmail.com)
 - 🖥️ GitHub: [Astral-mk4u48](https://github.com/Astral-mk4u48)
 
-⭐ **Looking for impactful remote volunteer roles in Web Development, Python Automation, and Civic Tech!**
+⭐ **Always looking to collaborate on open-source projects, student hackathons, and civic tech!**
