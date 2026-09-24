@@ -7,7 +7,7 @@
 ---
 
 ## 🔥 About Me
-- 🎓 **Incoming high school freshman at Coppell High School 9 focused on robotics, computer science, and engineering.**
+- 🎓 **Freshman at Coppell High School 9 focused on robotics, computer science, and engineering.**
 - 💻 Proficient in **Full Stack Web Development** and hardware-software integration.
 - 🔧 Passionate about building serverless architectures, automation engines, and database logic.
 - 📐 Backed by a strong foundation in **Competitive Mathematics** (MATHCOUNTS, AMC 10, UIL Mathematics).
