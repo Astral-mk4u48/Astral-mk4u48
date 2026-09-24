@@ -11,7 +11,7 @@
 - 💻 Proficient in **Full Stack Web Development** and hardware-software integration.
 - 🔧 Passionate about building serverless architectures, automation engines, and database logic.
 - 📐 Backed by a strong foundation in **Competitive Mathematics** (MATHCOUNTS, AMC 10, UIL Mathematics).
-- 🥋 Disciplined **Taekwondo Green Belt**, bringing focus and iteration to my engineering workflows.
+- 🥋 Disciplined **Taekwondo Blue Belt**, bringing focus and iteration to my engineering workflows.
 - 📖 Committed to open-source contributions, peer mentorship, and civic tech projects.
 
 ## 💼 Extracurriculars, Volunteer Work & Personal Projects
